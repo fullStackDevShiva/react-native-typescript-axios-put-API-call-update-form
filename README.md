@@ -1,5 +1,7 @@
 This is a simple PUT API call example with real world scenario. When we want to edit/update data items to the DB through mobile applications, we send PUT requests from the apps that target the concerned backend APIs.
 
+Note: Here, PUT API has been used to update the entire data object. In case of partial updates PATCH API can be used.
+
 ## Functionality
 
 (1) A component to edit/update a course (online course) to the course repository. (2) A component to list all the courses.
